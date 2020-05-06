@@ -7,8 +7,7 @@ This repository is to solve the Udacity exercise, Reacher, with different DDPG m
 ### The Environment
 The state space has 33 dimensions to describe position, rotation, velocity, and angular velocities of the arm. Continuous action space with 4 outputs with respect to torque to two joints.
 
-A reward of +0.1 is provided for each step that the agent's hand is in the goal location. So, the agent is to accumulate rewards to keep the arm in the target location.
-1 each step if the agent's hand is in target location.
+A reward of +0.1 is provided for each step that the agent's hand is in the goal location. So, the agent is to accumulate rewards to keep the arm in the target location. The task is solved if, the agent gets an average score of +30 over 100 consecutive episodes.
 
 ## Getting Start **One (1) Agent**
 
