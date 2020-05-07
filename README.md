@@ -1,8 +1,8 @@
 
-# Udacity Continuous Control Project
+# Udacity Reinforcement Learning Continuous Control Project
 
 ## Introduction
-This repository is to solve the Udacity exercise, Reacher, with different DDPG models. For this project, an agent has been trained to keep a robot's arm in the ball-like target location.
+This repository is to solve the Udacity exercise, Reacher, with different reinforcement learning DDPG models. For this project, an agent has been trained to keep a robot's arm in the ball-like target location.
 
 ### The Environment
 The state space has 33 dimensions to describe position, rotation, velocity, and angular velocities of the arm. Continuous action space with 4 outputs with respect to torque to two joints.
