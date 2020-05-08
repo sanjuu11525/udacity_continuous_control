@@ -9,6 +9,8 @@ The state space has 33 dimensions to describe position, rotation, velocity, and 
 
 A reward of +0.1 is provided for each step that the agent's hand is in the goal location. So, the agent is to accumulate rewards to keep the arm in the target location. The task is solved if, the agent gets an average score of +30 over 100 consecutive episodes.
 
+![](images/images.gif)
+
 ## Getting Start **One (1) Agent**
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system: 
