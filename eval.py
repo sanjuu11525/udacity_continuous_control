@@ -44,8 +44,6 @@ if __name__ == '__main__':
 
     device = torch.device("cpu")
 
-    # vanilla DQN
-    model_name = 'QNetwork'
     agent = DeterministicACagent(state_size=state_size, action_size=action_size, params=Params(), device=device)
     # model path
     model_path = os.path.abspath('checkpoint/checkpoint_actor.pth')
