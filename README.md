@@ -24,14 +24,14 @@ Please make sure each ```file_path``` in ```train_dqn.ipynb``` and ```eval.py```
 
 ## Installation
 
-1. Clone the repository and initialize the submodules.
+1. Clone the repository.
 
 ```
 git clone https://github.com/sanjuu11525/udacity_continuous_control.git
 cd udacity_continuous_control 
 ```
 
-2. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) ,JupytorLab and  create a new conda env.
+2. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) ,JupytorLab and create a new conda env.
 
 ```
 conda create -n ENV_NAME python=3.6
